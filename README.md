@@ -1,5 +1,5 @@
 # ELEC3225-Applied-Programming-Concepts
-<!-- Welcome to our GitHub repository for Assignment 2! In this repository, we have created a collaborative space for a group of up to 3 students to work together on their process models. Each team member has uploaded their three process models, labeled as "Lastname_ModelUsed" for easy identification.
+<!-- Welcome to our GitHub repository for Assignment 2! In this repository, we have created a collaborative space for a group of 2 students work together on their process models. Each team member has uploaded their three process models, labeled as "Lastname_ModelUsed" for easy identification.
 
 To facilitate teamwork and version control, we have utilized GitHub as our preferred platform. GitHub provides a seamless environment for collaborative coding, sharing files, and tracking changes. It ensures that all team members have access to the latest versions of the process models and allows for efficient collaboration.
 
